@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HealthCare/static/css/main.4933491e.css",
+    "main.js": "/HealthCare/static/js/main.36fdfc28.js",
+    "static/js/453.c57b4cd1.chunk.js": "/HealthCare/static/js/453.c57b4cd1.chunk.js",
+    "static/media/profile-2.png": "/HealthCare/static/media/profile-2.4752a9db34458eeffcfa.png",
+    "static/media/doctor-picture.png": "/HealthCare/static/media/doctor-picture.0261bb4efe7a9075c56a.png",
+    "static/media/profile-1.png": "/HealthCare/static/media/profile-1.0261bb4efe7a9075c56a.png",
+    "static/media/doctor-group.png": "/HealthCare/static/media/doctor-group.01394386d8270bd40bc1.png",
+    "static/media/profile-3.png": "/HealthCare/static/media/profile-3.530bb2fd7ece3dd3b3be.png",
+    "static/media/doctor-book-appointment.png": "/HealthCare/static/media/doctor-book-appointment.edb3f4ac282ff3fefaec.png",
+    "static/media/profile-4.png": "/HealthCare/static/media/profile-4.3c44185ab9c84614038f.png",
+    "index.html": "/HealthCare/index.html",
+    "main.4933491e.css.map": "/HealthCare/static/css/main.4933491e.css.map",
+    "main.36fdfc28.js.map": "/HealthCare/static/js/main.36fdfc28.js.map",
+    "453.c57b4cd1.chunk.js.map": "/HealthCare/static/js/453.c57b4cd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4933491e.css",
+    "static/js/main.36fdfc28.js"
+  ]
+}
